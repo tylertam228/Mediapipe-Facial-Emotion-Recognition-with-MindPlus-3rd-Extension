@@ -281,7 +281,7 @@ Mind+ (Mediapipe Emotion)/
     │   └── icon.svg
     ├── _locales/                 # Language files / 語言檔案
     │   ├── en.json               # English translations / 英文翻譯
-    │   └── zh-cn.json            # Traditional Chinese translations / 繁體中文翻譯
+    │   └── zh-tw.json            # Traditional Chinese translations / 繁體中文翻譯
     ├── _menus/                   # Menu definitions / 選單定義
     │   └── index.json
     └── libraries/                # Python libraries / Python 函式庫
