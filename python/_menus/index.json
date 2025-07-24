@@ -1,0 +1,14 @@
+{
+    "EMOTION": {
+        "menu": [["開心", "Happy"], ["難過", "Sad"], ["憤怒", "Angry"], ["驚訝", "Surprised"], ["中性", "Neutral"], ["無臉部", "No Face"]]
+    },
+    "DIRECTION": {
+        "menu": [["直向", "0"], ["橫向", "1"]]
+    },
+    "BOOLEAN_TYPE": {
+        "menu": [["True", "True"], ["False", "False"]]
+    },
+    "CONDITION_TYPES": {
+        "menu": [["if", "if"], ["elif", "elif"], ["else", "else"], ["while", "while"], ["while not", "while not"], ["break", "break"], ["continue", "continue"], ["pass", "pass"]]
+    }
+}

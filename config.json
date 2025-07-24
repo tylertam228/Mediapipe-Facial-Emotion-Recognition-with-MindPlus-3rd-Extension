@@ -1,0 +1,28 @@
+{
+  "name": {
+    "zh-cn": "MediaPipe 臉部情緒辨識 v1.0",
+    "en": "MediaPipe Facial Emotion Recognition v1.0"
+  },
+  "description": {
+    "zh-cn": "MediaPipe 臉部情緒辨識積木庫 v1.0。支援即時臉部情緒辨識、情緒狀態檢查、信心度追蹤、UI 控制等功能。整合了基於規則的情緒識別算法，支援開心/難過/憤怒/驚訝/中性等情緒。參考自 https://github.com/REWTAO/Facial-emotion-recognition-using-mediapipe",
+    "en": "MediaPipe Facial Emotion Recognition blocks v1.0. Supports real-time facial emotion recognition, emotion state detection, confidence tracking, UI control and more. Includes rule-based emotion recognition algorithms supporting Happy/Sad/Angry/Surprised/Neutral emotions. Referenced from https://github.com/REWTAO/Facial-emotion-recognition-using-mediapipe"
+  },
+  "author": "tylertam228-Tiger228",
+  "email": "tyler888.tt@gmail.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "mediapipe_fer",
+  "platform": ["win","mac","web","linux"],
+  "version": "1.0.0",
+  "asset": {
+    "python": {
+      "dir": "python/",
+      "main": "main.ts",
+      "dependencies": {
+        "opencv-python": "4.8.1.78",
+        "mediapipe": "0.10.9",
+        "numpy": "1.24.3"
+      }
+    }
+  }
+}
