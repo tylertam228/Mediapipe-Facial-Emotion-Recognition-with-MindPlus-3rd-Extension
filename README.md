@@ -12,7 +12,7 @@ This project is based on and references the following works:
 - [Facial-emotion-recognition-using-mediapipe](https://github.com/REWTAO/Facial-emotion-recognition-using-mediapipe)
 - [DFRobot Community Project](https://community.dfrobot.com/makelog-314255.html)
 
-**Important Note**: This implementation uses rule-based data processing for emotion recognition and does not include any trained machine learning models. Therefore, the accuracy may not be 100% perfect, but it provides a good starting point for educational and experimental purposes.
+**Important Note**: This implementation uses rule-based data processing for emotion recognition and does not include any trained machine learning models. Therefore, the accuracy not 100% perfect.
 
 ## Features
 
@@ -146,7 +146,7 @@ MIT License
 - [Facial-emotion-recognition-using-mediapipe](https://github.com/REWTAO/Facial-emotion-recognition-using-mediapipe)
 - [DFRobot 社群專案](https://community.dfrobot.com/makelog-314255.html)
 
-**重要說明**：本實作使用基於規則的資料處理進行情緒辨識，未包含任何訓練過的機器學習模型。因此準確度可能不是 100% 完美，但它為教育和實驗目的提供了良好的起點。
+**重要說明**：本實作使用基於規則的資料處理進行情緒辨識，未包含任何訓練過的機器學習模型。因此準確度不是 100%。
 
 ## 功能特色
 
